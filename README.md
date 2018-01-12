@@ -29,4 +29,4 @@ PharmIV, n(numlist) delta(numlist) alpha(numlist) sigma(numlist) prob_x1(numlist
 
 What is the power of an instrumental variable analysis study with 10,000 participants to detect a treament effect of 0.20 for a treatment with a frequency of exposure of 0.50? The binary instrument for the study has a freqency of 0.20 and the probability of exposure given the instrument Z=0 is 0.57.
 
-![alt text](Screenshots/Stata_Example.png)
+![alt text](https://github.com/venexia/PharmIV/blob/master/Screenshots/Stata_Example.png)
