@@ -1,0 +1,6 @@
+v 3
+d PharmIV
+d Power calculator for instrumental variable analysis in pharmacoepidemiology.
+
+f PharmIV.ado
+f PharmIV.sthlp
