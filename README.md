@@ -1,4 +1,4 @@
-# PharmIV_Stata
+# PharmIV-Stata
 
 This respository supplies the Stata package to calculate the power of an instrumental variable analysis study using a single binary instrument Z to analyse the causal effect of a binary exposure X on a continuous outcome Y in the context of pharmacoepidemiology. If you use this material, please cite:
 
@@ -12,7 +12,7 @@ The package can be installed using the following commands:
 
 ```stata
 net install github, from("https://haghish.github.io/github/")
-github install venexia/PharmIV_Stata
+github install venexia/PharmIV-Stata
 ```
 
 ## Syntax
