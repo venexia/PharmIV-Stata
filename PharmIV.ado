@@ -96,7 +96,7 @@ prog def PharmIV, rclass
 	local pi = `psi' - invnormal(`cond_z1')
 	local int_z1 = `cond_z1'*`prob_z1'
 	local c_alpha = invnormal(1-(`alpha'/2))
-	local sigma = 1
+	local sigma = `sigma'
 	local info = (`n'*((`int_z1' - (`prob_z1'*`prob_x1'))^2))/(`prob_z1'*(1-`prob_z1'))
 	local term = `delta'/(`sigma'*sqrt(1/`info'))
 	local temp = normal(-`c_alpha'+`term')+normal(-`c_alpha'-`term')
